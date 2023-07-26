@@ -5,4 +5,4 @@ Here are a bunch of Python Project VS-Code Notebooks. I suggest you to go for:
   
   Food Nutrient - Clustering Analysis;
   
-  Home Credit - Bayes Optimization & XGBoost/LightGBM
+  Personal Loan Payment - Bayes Optimization & XGBoost/LightGBM
